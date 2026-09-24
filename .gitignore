@@ -1,0 +1,7 @@
+# Python cache and environment__psycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit local settings & secrets
+.streamlit/secrets.toml
